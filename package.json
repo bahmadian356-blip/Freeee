@@ -1,0 +1,12 @@
+{
+  "name": "mio-point-mini-app",
+  "version": "1.0.0",
+  "description": "Mio Point Telegram Mini App",
+  "main": "app.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
